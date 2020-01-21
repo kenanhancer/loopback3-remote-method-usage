@@ -1,1 +1,8 @@
-{}
+{
+  "inMemoryDb": {
+    "name": "inMemoryDb",
+    "localStorage": "",
+    "file": "server/myData.json",
+    "connector": "memory"
+  }
+}
